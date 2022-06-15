@@ -17,9 +17,6 @@
 [![website](./img/globe-light.svg)](https://meer-patel.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://meer-patel.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/patel_meer#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/patel_meer#gh-dark-mode-only)
 &nbsp;&nbsp;
