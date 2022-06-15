@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 🔭 I’m currently working on [AICTE-backend](https://github.com/meer1616/AICTE-backend).
+
 🌱 I’m currently learning Docker.
+
 👯 I’m looking to collaborate in open source projects.
+
 💬 Ask me about Javascript,React,Node,Database.
+
 📫 How to reach me: https://meer-patel.netlify.app/
+
 ⚡ Fun fact: Love Gymnastics, Music.
 
 <!--
