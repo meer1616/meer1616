@@ -1,4 +1,4 @@
-                                                             ### Hi there 👋 I'm Meer Patel
+                                                       Hi there 👋 I'm Meer Patel
 
 🔭 I’m currently working on [AICTE-backend](https://github.com/meer1616/AICTE-backend).
 
