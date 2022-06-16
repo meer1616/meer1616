@@ -183,17 +183,17 @@
 <br />
 <br />
 
-<p><img align="center"
+<img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=meer1616&show_icons=true&locale=en&layout=compact"
-        alt="meer" /></p>
+        alt="meer" />
 
-<p>&nbsp;<img align="center"
+<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=meer1616&show_icons=true&locale=en"
-        alt="meer" /></p>
+        alt="meer" />
 
-<p><img align="center"
+<img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=meer1616&"
-        alt="meer" /></p>
+        alt="meer" />
 <!-- **meer1616/meer1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
