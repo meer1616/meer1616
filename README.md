@@ -167,7 +167,7 @@
 <br />
 <br />
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=meer1616&show_icons=true&locale=en&layout=compact"
         alt="meer" /></p>
 
