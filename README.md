@@ -30,151 +30,153 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px"
+    height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="HTML5" width="30px"
+<img align="left" alt="HTML5" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="CSS3" width="30px"
+<img align="left" alt="CSS3" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="Sass" width="30px"
+<img align="left" alt="Sass" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
     style="padding:10px;margin:10px;" />
 <img align="left" alt="JavaScript" width="30px"
+    height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="React" width="30px"
+<img align="left" alt="React" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="GraphQL" width="30px"
+<img align="left" alt="GraphQL" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="Node.js" width="30px"
+<img align="left" alt="Node.js" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="Deno" width="30px"
+<img align="left" alt="Deno" width="30px" height="30px"
     src="./img/deno-light.svg"
     style="padding:10px;margin:10px;" />
 
-<img align="left" alt="MySQL" width="30px"
+<img align="left" alt="MySQL" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="Git" width="30px"
+<img align="left" alt="Git" width="30px" height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     style="padding:10px;margin:10px;" />
-<img align="left" alt="GitHub" width="30px"
+<img align="left" alt="GitHub" width="30px" height="30px"
     src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws" width="30px"
+    alt="aws" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap" width="30px"
+    alt="bootstrap" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="c" width="30px"
+    alt="c" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="30px"
+    alt="docker" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="30px"
+    alt="express" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma" width="30px"
+    alt="figma" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase" width="30px"
+    alt="firebase" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-    alt="graphql" width="30px"
+    alt="graphql" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java" width="30px"
+    alt="java" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux" width="30px"
+    alt="linux" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb" width="30px"
+    alt="mongodb" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql" width="30px"
+    alt="mysql" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
-    alt="nextjs" width="30px"
+    alt="nextjs" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    alt="photoshop" width="30px"
+    alt="photoshop" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php" width="30px"
+    alt="php" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql" width="30px"
+    alt="postgresql" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman" width="30px"
+    alt="postman" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="30px"
+    alt="python" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react" width="30px"
+    alt="react" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="30px"
+    alt="redis" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux" width="30px"
+    alt="redux" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass" width="30px"
+    alt="sass" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-    alt="scikit_learn" width="30px"
+    alt="scikit_learn" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind" width="30px"
+    alt="tailwind" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="30px"
+    alt="typescript" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 <img align="left"
     src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-    alt="webpack" width="30px"
+    alt="webpack" width="30px" height="30px"
     style="padding:10px;margin:10px;" />
 
 <br />
