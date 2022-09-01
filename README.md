@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Meer Patel
 
 🔭 I’m currently working on
-[AICTE-backend](https://github.com/meer1616/AICTE-backend).
+[Umra Patshala](https://github.com/meer1616/umraPatshala-Frontend).
 
 🌱 I’m currently learning Docker.
 
