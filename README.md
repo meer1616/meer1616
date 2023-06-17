@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate in open source projects.
 
-💬 Ask me about Javascript,React,Node,Database.
+💬 Ask me about Javascript, React, Node, Database.
 
 📫 How to reach me: https://meer-patel.netlify.app/
 
