@@ -1,12 +1,5 @@
 ### Hi there 👋 I'm Meer Patel
 
-🔭 I’m currently working on
-[Swansea](https://github.com/meer1616/swansea_backend).
-
-🌱 I’m currently learning Docker.
-
-👯 I’m looking to collaborate in open source projects.
-
 💬 Ask me about Javascript, React, Node, Database.
 
 📫 How to reach me: https://meer-patel.netlify.app/
