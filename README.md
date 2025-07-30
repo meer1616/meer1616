@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Meer Patel
 
-💬 Ask me about Javascript, React, Node, Database.
+💬 Ask me about DevOps & Full Stack Development.
 
 📫 How to reach me: https://meer-patel.netlify.app/
 
